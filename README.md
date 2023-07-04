@@ -24,7 +24,7 @@ I learned web development through an online diploma course and on my own.
 
 I'm currently **looking** for a job ! 🤓
 
-Meanwhile i'm working on some personal projects to improve my skills and learning new language/frameworks. 💻
+Meanwhile i'm working on some personal projects to improve my skills and learning new languages/frameworks. 💻
 
 ## Let's Connect ! 💬
 
