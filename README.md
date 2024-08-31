@@ -12,7 +12,7 @@ I learned web development through an online diploma course and on my own.
 ## Skills ⚡
 
 ### Languages ⌨️
-**`HTML`** **`CSS`** **`JavaScript`** **`PHP`**
+**`HTML`** **`CSS`** **`JavaScript`** **`TypeScript`**
 
 ### Frameworks / Technologies 🚀 
 **`Sass`** **`Bootstrap`** **`React.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
