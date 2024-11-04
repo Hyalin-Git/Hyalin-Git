@@ -1,6 +1,6 @@
-# Hi there 👋
+# Salut ! 👋
 
-## About me 🤔
+## À propos de moi 🤔
 
 Welcome to my corner of the coding playground ! 
 
