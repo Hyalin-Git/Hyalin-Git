@@ -28,10 +28,10 @@ En attendant, je continue de travailler sur différents projets personnels pour 
 
 ## Restons connectés ! 💬
 
-En tant que développeur web, i'm **eager to learn** from experienced mentors and collaborate with fellow developers. <br />
-Si vous avez des idées de projet cool, n'hésitez pas à me contacter pour donner vie à votre projet !
+En tant que développeuse web, j'ai une réelle **soif d'apprendre** en continu et de collaborer avec d'autres développeurs. <br />
+Si vous avez des idées de projet ou quoi que se soit d'autres, n'hésitez pas à me contacter pour donner vie à vos idées ou simplement échanger !
 
-Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [Twitter](https://x.com/Hyalin_dev)!
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [Twitter](https://x.com/Hyalin_dev) !
 
 <!--
 **Hyalin-Git/Hyalin-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
