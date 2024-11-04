@@ -9,7 +9,7 @@ I've got more enthusiasm for coding than a squirrel on a caffeine rush. 🐿️
 
 I learned web development through an online diploma course and on my own.
 
-## Skills ⚡
+## Compétences ⚡
 
 ### Languages ⌨️
 **`HTML`** **`CSS`** **`JavaScript`** **`TypeScript`**
