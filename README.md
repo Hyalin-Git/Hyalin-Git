@@ -26,7 +26,7 @@ Je suis actuellement à la **recherche** d'un emploi ! 🤓
 
 En attendant, je continue de travailler sur différents projets personnels pour améliorer mes compétences déjà acquises et apprendre de nouveaux langages. 💻
 
-## Restons connectés ! 💬
+## Restons en contact ! 💬
 
 En tant que développeur web, j'ai une réelle **soif d'apprendre** en continu et de collaborer avec d'autres développeurs. <br />
 Si vous avez des idées de projet ou quoi que se soit d'autres, n'hésitez pas à me contacter pour donner vie à vos idées ou simplement échanger !
