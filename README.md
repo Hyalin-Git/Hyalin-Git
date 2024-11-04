@@ -28,7 +28,7 @@ En attendant, je continue de travailler sur différents projets personnels pour 
 
 ## Restons connectés ! 💬
 
-En tant que développeuse web, j'ai une réelle **soif d'apprendre** en continu et de collaborer avec d'autres développeurs. <br />
+En tant que développeur web, j'ai une réelle **soif d'apprendre** en continu et de collaborer avec d'autres développeurs. <br />
 Si vous avez des idées de projet ou quoi que se soit d'autres, n'hésitez pas à me contacter pour donner vie à vos idées ou simplement échanger !
 
 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [Twitter](https://x.com/Hyalin_dev) !
