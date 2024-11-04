@@ -31,7 +31,7 @@ En attendant, je continue de travailler sur différents projets personnels pour 
 En tant que développeur web, i'm **eager to learn** from experienced mentors and collaborate with fellow developers. <br />
 Si vous avez des idées de projet cool, n'hésitez pas à me contacter pour donner vie à votre projet !
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) !
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [Twitter](https://x.com/Hyalin_dev)!
 
 <!--
 **Hyalin-Git/Hyalin-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
