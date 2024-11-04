@@ -20,16 +20,16 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 <br />
 **`MySQL`** **`MongoDB`**
 
-## What do I do now ? 🌱
+## Et maintenant ? 🌱
 
-I'm currently **looking** for a job ! 🤓
+Je suis actuellement à la **recherche** d'un emploi ! 🤓
 
-Meanwhile i'm working on some personal projects to improve my skills and learning new languages/frameworks. 💻
+En attendant, je continue de travailler sur différents projets personnels pour améliorer mes compétences déjà acquises et apprendre de nouveaux langages. 💻
 
-## Let's Connect ! 💬
+## Restons connectés ! 💬
 
-As a junior web developer, i'm **eager to learn** from experienced mentors and collaborate with fellow developers. <br />
-If you have any cool projets let's join force and make some magic happen !
+En tant que développeur web, i'm **eager to learn** from experienced mentors and collaborate with fellow developers. <br />
+Si vous avez des idées de projet cool, n'hésitez pas à me contacter pour donner vie à votre projet !
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) !
 
