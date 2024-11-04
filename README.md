@@ -2,12 +2,12 @@
 
 ## À propos de moi 🤔
 
-Welcome to my corner of the coding playground ! 
+Bienvenu sur mon profil GitHub !
 
-I'm a junior web developer i may be a "junior" but don't let that fool you ! <br />
-I've got more enthusiasm for coding than a squirrel on a caffeine rush. 🐿️
+Je suis développeur web full-stack ! <br />
+Passionné depuis toujours par l'informatique, le développement web a été un véritable coup de coeur.
 
-I learned web development through an online diploma course and on my own.
+j'ai appris le développement web à travers une formation en ligne et par mes propres moyens.
 
 ## Compétences ⚡
 
