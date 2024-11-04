@@ -15,7 +15,7 @@ I learned web development through an online diploma course and on my own.
 **`HTML`** **`CSS`** **`JavaScript`** **`TypeScript`**
 
 ### Frameworks / Technologies 🚀 
-**`Sass`** **`Bootstrap`** **`React.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
+**`Sass`** **`Bootstrap`** **`React.js`** **`Next.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
 <br />
 <br />
 **`MySQL`** **`MongoDB`**
