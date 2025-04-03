@@ -22,9 +22,9 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 
 ## Et maintenant ? 🌱
 
-Je suis actuellement à la **recherche** d'un emploi ! 🤓
+Je fais actuellement partie de l'agence AK Digital en tant que développeur web full-stack. 🤓
 
-En attendant, je continue de travailler sur différents projets personnels pour améliorer mes compétences déjà acquises et apprendre de nouveaux langages. 💻
+Parallèlement, je travaille sur divers projets personnels afin de renforcer mes compétences et d'explorer de nouveaux langages. 💻
 
 ## Restons en contact ! 💬
 
