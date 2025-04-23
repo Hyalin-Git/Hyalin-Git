@@ -20,6 +20,9 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 <br />
 **`MySQL`** **`MongoDB`**
 
+### CMS 🧩
+**`Développement Wordpress`** **`Avada`** **`Elementor`**
+
 ## Et maintenant ? 🌱
 
 Je fais actuellement partie de l'agence **AK Digital** en tant que développeur web full-stack. 🤓
