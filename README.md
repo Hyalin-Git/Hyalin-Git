@@ -31,7 +31,7 @@ Parallèlement, je travaille sur divers projets personnels afin de renforcer mes
 
 ## Restons en contact ! 💬
 
-Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [Twitter](https://x.com/Hyalin_dev) !
+Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/) ou [X (Twitter)](https://x.com/Hyalin_dev) !
 
 <!--
 **Hyalin-Git/Hyalin-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
