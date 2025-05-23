@@ -15,7 +15,7 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 **`HTML`** **`CSS`** **`JavaScript`** **`TypeScript`**
 
 ### Frameworks / Technologies 🚀 
-**`Sass`** **`Bootstrap`** **`React.js`** **`Next.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
+**`Sass`** **`Bootstrap`** **`Tailwind`** **`React.js`** **`Next.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
 <br />
 <br />
 **`MySQL`** **`MongoDB`**
