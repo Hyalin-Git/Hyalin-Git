@@ -15,13 +15,13 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 **`HTML`** **`CSS`** **`JavaScript`** **`TypeScript`**
 
 ### Frameworks / Technologies 🚀 
-**`Sass`** **`Bootstrap`** **`Tailwindcss`** **`React.js`** **`Next.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
+**`Sass`** **`Bootstrap`** **`TailwindCSS`** **`React.js`** **`Next.js`** **`Redux.js`** **`Node.js`** **`Express.js`** 
 <br />
 <br />
 **`MySQL`** **`MongoDB`**
 
 ### CMS 🧩
-**`WordPress (Développement, Avada, Elementor)`**
+**`WordPress (Headless, Développement, Avada, Elementor)`**
 
 ## Et maintenant ? 🌱
 
