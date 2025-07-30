@@ -21,7 +21,7 @@ j'ai appris le développement web à travers une formation en ligne et par mes p
 **`MySQL`** **`MongoDB`**
 
 ### CMS 🧩
-**`WordPress (Headless, Développement, Avada, Elementor)`** **`Strapi`**
+**`Strapi`** **`WordPress (Headless, Développement, Avada, Elementor)`**
 
 ## Et maintenant ? 🌱
 
