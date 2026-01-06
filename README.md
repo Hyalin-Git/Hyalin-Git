@@ -7,7 +7,7 @@ Bienvenu sur mon profil GitHub !
 Je suis développeur web full-stack ! <br />
 Passionné depuis toujours par l'informatique, le développement web a été un véritable coup de coeur.
 
-j'ai appris le développement web à travers une formation en ligne et par mes propres moyens.
+J'ai appris le développement web à travers une formation en ligne et par mes propres moyens.
 
 ## Compétences ⚡
 
