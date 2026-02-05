@@ -41,7 +41,7 @@ Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/n-t-dev-b728
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢸⣿⠇⠀⠀⠀⠂⠀⢴⣶⡆⢸⣷⣶⠀⡀⠻⣿⣿⠟⠃⠀⠀⠐⣶⠀⠘⣿⣿⣿⣿⣿⣿⣿    ║ ◉ LANGAGES ┆ HTML, CSS, JavaScript, TypeScript
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣾⣿⢀⣶⡀⠀⠀⠀⠸⠟⠁⠻⠿⠃⣼⣿⡦⠈⠀⣀⣴⣾⣧⠀⠹⡈⠀⣿⣿⣿⣿⣿⣿⣿    ║ ◉ CMS ┆ Medusa.js, Payload, WordPress (Headless, Avada, Elementor)
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣆⠀⠀⠀⡾⠀⣿⠂⣴⡄⠁⢀⣴⣾⣿⣿⣿⣿⡄⠀⠆⠀⢸⣿⡟⣿⣿⣿⣿    ║ ◉ STATUS ┆ Agence AK Digital
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣆⠀⠀⠀⠠⠀⡈⠋⢀⣴⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣼⣿⠇⡿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣆⠀⠀⠀⠠⠀⡈⠋⢀⣴⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣼⣿⠇⡿⣿⣿⣿     
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣆⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⢀⣿⣿⢸⡇⣿⣿⣿    
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠸⣿⣿⣿⣿⠃⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⣼⣿⡇⣾⢰⣿⣿⣿    ║ ▶ FRAMEWORKS ┆ React.js, Next.js, Redux.js
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠻⣿⡿⠃⠀⠀⢀⡀⠀⠄⠙⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⢰⣿⣿⣼⢃⣼⣿⣿⣿    ║ ▶ BACKEND ┆ Node.js, Express.js
