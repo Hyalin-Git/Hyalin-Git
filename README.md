@@ -24,7 +24,7 @@ J'ai appris le développement web à travers une formation en ligne et par mes p
  **`Medusa.js (e-commerce)`** **`Payload`** **`WordPress (Headless, Développement, Avada, Elementor)`**
 
 ### DevOps / Outils ⚙️
-**`Docker`**  **`Git / GitHub`**  **`CI/CD`**
+**`NPM`** **`Yarn`** **`Docker`** **`Git / GitHub`** **`CI/CD`**
 
 ### Environnements / OS 💻
 **`Linux`** **`Windows`**
