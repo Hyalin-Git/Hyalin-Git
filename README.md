@@ -70,6 +70,10 @@ Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyalin-Git&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyalin-Git&show_icons=true&theme=radical&hide_border=true" alt="Stats de Nicolas" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyalin-Git&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </div>
