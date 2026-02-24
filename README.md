@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Salut ! 👋 Moi c'est Nicolas</h1>
-  <p>🚀 <b>Développeur Web Full-Stack</b> passionné et curieux</p>
+  <p>🚀 <b>Développeur Web Full-Stack</b></p>
   <p>📍 Actuellement chez <b>AK Digital</b></p>
 
   <a href="https://www.linkedin.com/in/n-t-dev-b72892265/">
@@ -71,5 +71,5 @@ Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyalin-Git&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
 </div>
