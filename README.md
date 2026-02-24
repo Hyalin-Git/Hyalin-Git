@@ -63,4 +63,4 @@ Je m'épanouis actuellement chez **AK Digital** en tant que dev full-stack. En d
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyalin-Git&theme=default)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hyalin-Git&theme=taiga&hide_border=true&locale=fr&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
