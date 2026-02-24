@@ -63,5 +63,4 @@ Je m'épanouis actuellement chez **AK Digital** en tant que dev full-stack. En d
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyalin-Git&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyalin-Git&theme=default)
