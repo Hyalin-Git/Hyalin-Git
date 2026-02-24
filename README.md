@@ -71,5 +71,13 @@ Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
 ---
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Hyalin-Git?template=classic&base.header=0&base.activity=0&base.community=0&display=regular" alt="Metrics" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Salut%20!%20Moi%20c'est%20Nicolas&fontSize=50" alt="Header" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyalin-Git&theme=radical&hide_border=true" alt="Graphique d'activité" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyalin-Git&layout=compact&theme=radical" alt="Top Skills" />
 </div>
