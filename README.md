@@ -71,6 +71,5 @@ Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyalin-Git&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Hyalin-Git&theme=radical" alt="Langs" />
+  <img src="https://metrics.lecoq.io/Hyalin-Git?template=classic&base.header=0&base.activity=0&base.community=0&display=regular" alt="Metrics" />
 </div>
