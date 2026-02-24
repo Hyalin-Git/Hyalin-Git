@@ -61,13 +61,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack qui a fait 
 
 Je m'épanouis actuellement chez **AK Digital** en tant que dev full-stack. En dehors du boulot, je continue d'explorer de nouveaux horizons techniques sur mes projets persos ! 🤓
 
-## 💬 Restons en contact !
-
-Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/n-t-dev-b72892265/)
-* 🐦 [X (Twitter)](https://x.com/Hyalin_dev)
-
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyalin-Git&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyalin-Git&theme=default)
