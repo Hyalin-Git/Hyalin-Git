@@ -57,12 +57,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack qui a fait 
 
 ---
 
-## 🌱 Et maintenant ?
-
-Je m'épanouis actuellement chez **AK Digital** en tant que dev full-stack. En dehors du boulot, je continue d'explorer de nouveaux horizons techniques sur mes projets persos ! 🤓
-
----
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hyalin-Git&theme=github-dark-blue&hide_border=true&locale=fr&exclude_days=Sun%2CSat" alt="GitHub Streak" />
