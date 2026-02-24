@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Salut ! 👋 Moi c'est Nicolas</h1>
-  <p>🚀 <b>Développeur Web Full-Stack</b></p>
+  <h1>Développeur Web Full-Stack</h1>
   <p>📍 Actuellement chez <b>AK Digital</b></p>
 
   <a href="https://www.linkedin.com/in/n-t-dev-b72892265/">
