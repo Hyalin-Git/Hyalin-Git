@@ -70,14 +70,4 @@ Si vous voulez discuter d'un projet ou juste dire bonjour, ça se passe ici :
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Salut%20!%20Moi%20c'est%20Nicolas&fontSize=50" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyalin-Git&theme=radical&hide_border=true" alt="Graphique d'activité" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyalin-Git&layout=compact&theme=radical" alt="Top Skills" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyalin-Git&theme=default)
