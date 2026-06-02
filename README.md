@@ -14,7 +14,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack qui a fait ses armes en autodidacte et via une formation intensive. Pour moi, le code n'est pas juste un métier, c'est un véritable coup de cœur.
+Bienvenue sur mon profil GitHub ! Je suis un développeur full-stack qui a fait ses armes en autodidacte et via une formation intensive.
 
 ## ⚡ Compétences
 
